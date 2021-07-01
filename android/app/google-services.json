@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59171127253",
+    "project_id": "videoapp-11722",
+    "storage_bucket": "videoapp-11722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59171127253:android:aa536924a0a40cc46c875c",
+        "android_client_info": {
+          "package_name": "com.reetisha.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59171127253-vi3rhv5620vr8sg5ae82scdc3o86igj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reetisha.video_app",
+            "certificate_hash": "2cfd8cfe1fde2b95c51276b8785a927f0db3045f"
+          }
+        },
+        {
+          "client_id": "59171127253-lsvva9iru15j0oplj7td710fstd643nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dQXolldAJ23trsVcEsxWyopWcKhili4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59171127253-lsvva9iru15j0oplj7td710fstd643nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
